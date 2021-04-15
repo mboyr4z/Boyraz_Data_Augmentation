@@ -14,3 +14,11 @@ label with a red background will be correct, else label background will be error
 
 -------------------------------
 
+## ROTATE IMAGES
+
+if you want rotate uy photos, u should use rotate button.
+Location and count cannot be empty.
+
+<p align="center">
+<img src="https://www.resimyukle.org/images/2021/04/15/ee709177e33f70577dfcffbd7a2a60b1.png" alt="3" border="0">
+</p>
