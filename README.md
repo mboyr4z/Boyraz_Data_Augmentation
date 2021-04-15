@@ -36,3 +36,11 @@ This function use this formula //      img = img * (contrast / 127 + 1) - contra
 <p align="center">
 <img src="https://www.resimyukle.org/images/2021/04/15/7a2f840637cb230053d9852b0bfc682e.png" alt="4" border="0">
 </p>
+
+
+
+---------
+<p align="center">
+<img src="https://www.resimyukle.org/images/2021/04/15/af6dd2fd6997e7f1549c87871b5879e8.png" alt="6" border="0">
+</p>
+
