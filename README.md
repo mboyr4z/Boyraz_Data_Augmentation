@@ -22,3 +22,14 @@ Location and count cannot be empty.
 <p align="center">
 <img src="https://www.resimyukle.org/images/2021/04/15/ee709177e33f70577dfcffbd7a2a60b1.png" alt="3" border="0">
 </p>
+
+the counter helps us how many photos we will make,
+and rotate function do 3 times rotate 90 celcius your photos and save thats.
+
+------------------------------
+
+
+
+<p align="center">
+<img src="https://www.resimyukle.org/images/2021/04/15/7a2f840637cb230053d9852b0bfc682e.png" alt="4" border="0">
+</p>
