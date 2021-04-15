@@ -40,7 +40,14 @@ This function use this formula //      img = img * (contrast / 127 + 1) - contra
 
 
 ---------
+## IMAGE ZOOMING
+
 <p align="center">
 <img src="https://www.resimyukle.org/images/2021/04/15/af6dd2fd6997e7f1549c87871b5879e8.png" alt="6" border="0">
 </p>
+
+THİS FUNCTİON USE this formula // img = cv2.resize(img,(len(img) * zoom) , len(img[0]) * zoom)
+// if parameter of zoom is 1, there is no change 
+// if paramtere bigger than 1, ur photo will be big, else small
+
 
