@@ -31,7 +31,7 @@ and rotate function do 3 times rotate 90 celcius your photos and save thats.
 
 Is your photo too bright?
 Then click brightness button.
-This function use this formula //      
+This function use this formula //      img = img * (contrast / 127 + 1) - contrast - brightness  // SO for ONLY DARKENING
 
 <p align="center">
 <img src="https://www.resimyukle.org/images/2021/04/15/7a2f840637cb230053d9852b0bfc682e.png" alt="4" border="0">
