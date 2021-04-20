@@ -1,7 +1,7 @@
 
 # BOYRAZ DATA AUGMENTATİON
 <p align="center">
-<img src="https://www.resimyukle.org/images/2021/04/15/890855aa8c438ae049196d4e6be241d8.png" alt="2" border="0">
+<img src="https://user-images.githubusercontent.com/82450697/115392969-d8b31900-a1e9-11eb-9803-5e5e8c6e960d.PNG" alt="2" border="0">
 </p>
 
 
@@ -20,7 +20,7 @@ if you want rotate uy photos, u should use rotate button.
 Location and count cannot be empty.
 
 <p align="center">
-<img src="https://www.resimyukle.org/images/2021/04/15/ee709177e33f70577dfcffbd7a2a60b1.png" alt="3" border="0">
+<img src="https://user-images.githubusercontent.com/82450697/115393023-e5d00800-a1e9-11eb-84c4-9925dd2cbba0.PNG" alt="3" border="0">
 </p>
 
 the counter helps us how many photos we will make,
