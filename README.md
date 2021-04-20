@@ -34,7 +34,7 @@ Then click brightness button.
 This function use this formula //      img = img * (contrast / 127 + 1) - contrast - brightness  // SO for ONLY DARKENING
 
 <p align="center">
-<img src="https://www.resimyukle.org/images/2021/04/15/7a2f840637cb230053d9852b0bfc682e.png" alt="4" border="0">
+<img src="https://user-images.githubusercontent.com/82450697/115393192-1748d380-a1ea-11eb-9395-be36e1e24ecb.PNG" alt="4" border="0">
 </p>
 
 
@@ -43,7 +43,7 @@ This function use this formula //      img = img * (contrast / 127 + 1) - contra
 ## IMAGE ZOOMING
 
 <p align="center">
-<img src="https://www.resimyukle.org/images/2021/04/15/af6dd2fd6997e7f1549c87871b5879e8.png" alt="6" border="0">
+<img src="https://user-images.githubusercontent.com/82450697/115393272-292a7680-a1ea-11eb-80fe-9c37953f3d84.PNG" alt="6" border="0">
 </p>
 
 THİS FUNCTİON USE this formula // img = cv2.resize(img,(len(img) * zoom) , len(img[0]) * zoom)
